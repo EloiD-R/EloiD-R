@@ -5,7 +5,7 @@
 🪧-i dev in python, c# and html/css/  a little bit off js. Im actually learning golang                                                     
 🪧-currently i'm programming in golang and python                                                                                                                   
 🪧-i'm in a junior association that's called Devlowave                                                                                                         
-🪧-you can contact me with this e-mail : griszou12@gmail.com or !!-|GRISZ|-!!#2705 (discord)                                                                                                
+🪧-you can contact me with this e-mail : griszou12@gmail.com or with discord ( !!-|GRISZ|-!!#2705 )                                                                                                
 🪧-i think it's all but if you have any questions : ⬆                                                                                                           
 
 👋-bye and see you next time 😉
