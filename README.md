@@ -1,11 +1,2 @@
-👋-Hi my name's GRISZ                                                                                                                                           
-🇫🇷-i'm french and speak a quite good english so sorry if i make any mistake in this text
-
-🪧-i'm a beginner dev (a little bit more than1 year)                                                                                                                         
-🪧-i dev in python, c# and html/css/  a little bit of php/js. Im learning golang                                                     
-🪧-currently i'm programming in golang and python                                                                                                                   
-🪧-i'm in a junior association that's called Devlowave                                                                                                         
-🪧-you can contact me with this e-mail : griszou12@gmail.com or with discord ( !!-|GRISZ|-!!#2705 )                                                                                                
-🪧-i think it's all but if you have any questions : ⬆                                                                                                           
-
-👋-bye and see you next time 😉
+### Introduction :
+> Hi my pseudo is GRISZ but my real name is Eloi D--R, i'm 14 years old and in the [Devlowave](https://github.com/orgs/Devlowave-Org/repositories) i live near Lille in France, i started programming roughly 2-years ago with web-dev and i am now passionate about it (more on "Skills" section) and computer-science in général, i even do electronic and Sytem/Network Administration (i got a rpi and make a web-server and i am actually working on a DNS server) AND overall i am actually learning rust-lang 🦀.
